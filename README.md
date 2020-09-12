@@ -10,8 +10,8 @@ Nothing is set in stone, so experiment.
 
 ## Resources
 
-Pygame docs: [https://www.pygame.org/docs/]
-Explanation Notebook: [https://github.com/mishnea/PyWeek-Explain]
+- Pygame docs: [https://www.pygame.org/docs/]
+- Explanation Notebook: [https://github.com/mishnea/PyWeek-Explain]
 
 ## Setting up the local repository
 
