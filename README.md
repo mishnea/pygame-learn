@@ -27,4 +27,4 @@ Explanation Notebook: [https://github.com/mishnea/PyWeek-Explain]
    - `.venv\Scripts\Activate.ps1`
    - `pip install -m requirements.txt`
 
-\ You should now have all of the files, and a virtual environment with pygame.
+You should now have all of the files, and a virtual environment with pygame.
