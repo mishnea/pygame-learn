@@ -4,7 +4,7 @@ Basic pygame template to quickly make a game and learn.
 
 ## Usage
 
-Use example-basic.py and example-advanced.py to mess around and learn what thay are doing and how.
+Use example-basic.py and example-advanced.py to mess around and learn what they are doing, and how they are doing it.
 Use template.py as a starter template to make your own games.
 Nothing is set in stone, so experiment.
 
