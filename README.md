@@ -1,4 +1,4 @@
-# pygame-test
+# pygame-learn
 
 Basic pygame template to quickly make a game and learn.
 
